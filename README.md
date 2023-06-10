@@ -10,4 +10,5 @@ This is a react-based application which allows you to search for any movie or tv
 - we can get information about that movie like release date, budget, earnings, actors,writers etc
 
 # Live Preview
-click on 
+click on following link to access the application
+https://movie-browser-ebon.vercel.app/
