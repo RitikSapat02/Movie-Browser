@@ -1,4 +1,4 @@
-## Movie-Browser
+# Movie-Browser
 
 # About
 This is a react-based application which allows you to search for any movie or tv show in the world
